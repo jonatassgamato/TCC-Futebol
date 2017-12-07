@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9391124651415c46a3bed68d83db95e
+timeCreated: 1508177364
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sports World
+  fontNames:
+  - Sports World
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
